@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MVC_Web.Models
 {
@@ -11,6 +12,7 @@ namespace MVC_Web.Models
         public string ImageURL { get; set; }
         public string Address {  get; set; }
         [ForeignKey("Department")]
+        [Display(Name="Department")]
         public int DepartmentID {  get; set; }
 
         public Department Department { get; set; }

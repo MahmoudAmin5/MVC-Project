@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\MVC Web.8y80olfs6m.bundle.scp.css"
     },
     {
+      "Id": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\m.png",
+      "PackagePath": "staticwebassets\\Images\\m.png"
+    },
+    {
       "Id": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -1,0 +1,24 @@
+﻿@model List<Empolyee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Empolyees</h1>
+<a  asp-action="New" asp-controller="Empolyee" class="btn btn-success" >Add New Empolyee</a>
+<table class="table table-hover table-bordered">
+    <tr>
+      <th> ID </th>
+      <th> Name </th>
+      <th> Salary </th>
+      <th></th>
+    </tr>
+    @foreach(var emp in Model ){
+        <tr>
+            <td>@emp.ID</td>
+            <td>@emp.Name</td>
+            <td>@emp.Salary</td>
+            <td><a href="/Empolyee/Edit/@emp.ID">Edit</a></td>
+        </tr>
+    }
+</table>
+

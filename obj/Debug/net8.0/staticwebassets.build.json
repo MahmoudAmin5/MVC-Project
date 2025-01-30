@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0p+pJ1ztxAkhZ1iBFIFXBgzAzf4/Qb5YQ1arWCMcxk0=",
+  "Hash": "9MM3Nya31eRdQ6/xvKjpxVS2rTBI1dAqbQ5MQkBbBxA=",
   "Source": "MVC Web",
   "BasePath": "_content/MVC Web",
   "Mode": "Default",
@@ -99,6 +99,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\2.jpg",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "Images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i2sq2qdqi6",
+      "Integrity": "ZrXE952JDv2v4CaaAHN3sOfgD20xjWFssMD/m/ejEgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2.jpg"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\m.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "Images/m#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dsd0afvcb8",
+      "Integrity": "zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\m.png"
     },
     {
       "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\js\\site.js",
@@ -1481,6 +1523,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2.i2sq2qdqi6.jpg",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrXE952JDv2v4CaaAHN3sOfgD20xjWFssMD/m/ejEgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 15:33:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2sq2qdqi6"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrXE952JDv2v4CaaAHN3sOfgD20xjWFssMD/m/ejEgA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2.jpg",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrXE952JDv2v4CaaAHN3sOfgD20xjWFssMD/m/ejEgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 15:33:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrXE952JDv2v4CaaAHN3sOfgD20xjWFssMD/m/ejEgA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/m.dsd0afvcb8.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\m.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 15:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dsd0afvcb8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/m.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/m.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\Images\\m.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 15:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk="
         }
       ]
     },
