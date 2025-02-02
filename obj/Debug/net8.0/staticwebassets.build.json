@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9MM3Nya31eRdQ6/xvKjpxVS2rTBI1dAqbQ5MQkBbBxA=",
+  "Hash": "pmyDnylYI1Vdz2C7NWZ8Sk1fEcyWiLxNI4zyZvrjBdA=",
   "Source": "MVC Web",
   "BasePath": "_content/MVC Web",
   "Mode": "Default",
@@ -59,6 +59,174 @@
       "OriginalItemSpec": "D:\\MVC Project\\MVC Web\\MVC Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC Web.bundle.scp.css"
     },
     {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\avataaars.svg",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/avataaars#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z1gv136zx9",
+      "Integrity": "BxBCmmUudO5rnitmKc/hYUVYrd+jWnX4Mo9Vur/bF24=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/cabin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vewl37wlma",
+      "Integrity": "qcmNTz6xW5/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/cake#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqj1e98t70",
+      "Integrity": "y5PrR+wS5brJ5/fuxFhmODezKNzQmIdx0rPvmToksmM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/circus#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xzogx8nsn",
+      "Integrity": "JMAcSQMqUhv4/slRnB92Np9g6APLAkuAbz3qWxlNNMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/game#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4jkt3af09",
+      "Integrity": "2yam6TCLW7IfSy6/mVnwtb/i2//Ov0wVNAmYPSU6DkI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/safe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3zk05yhnq",
+      "Integrity": "uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "assets/img/portfolio/submarine#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fy0x45ccn6",
+      "Integrity": "F/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
       "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\site.css",
       "SourceId": "MVC Web",
       "SourceType": "Discovered",
@@ -78,6 +246,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\styles.css",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69w57k644l",
+      "Integrity": "isn3A1qZxNtG+8+16ltDynhRPdzZYMulPk2XIZ2kCcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\favicon.ico",
@@ -141,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\m.png"
+    },
+    {
+      "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\js\\scripts.js",
+      "SourceId": "MVC Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\",
+      "BasePath": "_content/MVC Web",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n86y5v0x90",
+      "Integrity": "F5Xh2ODNWUJB170KwVgnt9liGUtrfjVIPcU4bAiJAI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\js\\site.js",
@@ -1363,6 +1573,662 @@
   ],
   "Endpoints": [
     {
+      "Route": "assets/favicon.devepoo3hg.ico",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "assets/favicon.ico",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/avataaars.svg",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\avataaars.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxBCmmUudO5rnitmKc/hYUVYrd+jWnX4Mo9Vur/bF24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxBCmmUudO5rnitmKc/hYUVYrd+jWnX4Mo9Vur/bF24="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/avataaars.z1gv136zx9.svg",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\avataaars.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxBCmmUudO5rnitmKc/hYUVYrd+jWnX4Mo9Vur/bF24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1gv136zx9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/avataaars.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxBCmmUudO5rnitmKc/hYUVYrd+jWnX4Mo9Vur/bF24="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/cabin.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcmNTz6xW5/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcmNTz6xW5/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/cabin.vewl37wlma.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcmNTz6xW5/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vewl37wlma"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/cabin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcmNTz6xW5/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/cake.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5PrR+wS5brJ5/fuxFhmODezKNzQmIdx0rPvmToksmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y5PrR+wS5brJ5/fuxFhmODezKNzQmIdx0rPvmToksmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/cake.tqj1e98t70.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5PrR+wS5brJ5/fuxFhmODezKNzQmIdx0rPvmToksmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqj1e98t70"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/cake.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y5PrR+wS5brJ5/fuxFhmODezKNzQmIdx0rPvmToksmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/circus.8xzogx8nsn.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMAcSQMqUhv4/slRnB92Np9g6APLAkuAbz3qWxlNNMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xzogx8nsn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/circus.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMAcSQMqUhv4/slRnB92Np9g6APLAkuAbz3qWxlNNMY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/circus.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMAcSQMqUhv4/slRnB92Np9g6APLAkuAbz3qWxlNNMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMAcSQMqUhv4/slRnB92Np9g6APLAkuAbz3qWxlNNMY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/game.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2yam6TCLW7IfSy6/mVnwtb/i2//Ov0wVNAmYPSU6DkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2yam6TCLW7IfSy6/mVnwtb/i2//Ov0wVNAmYPSU6DkI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/game.r4jkt3af09.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2yam6TCLW7IfSy6/mVnwtb/i2//Ov0wVNAmYPSU6DkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4jkt3af09"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/game.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2yam6TCLW7IfSy6/mVnwtb/i2//Ov0wVNAmYPSU6DkI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/safe.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/safe.t3zk05yhnq.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3zk05yhnq"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/safe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/submarine.fy0x45ccn6.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fy0x45ccn6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio/submarine.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio/submarine.png",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1441,6 +2307,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.69w57k644l.css",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"isn3A1qZxNtG+8+16ltDynhRPdzZYMulPk2XIZ2kCcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69w57k644l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-isn3A1qZxNtG+8+16ltDynhRPdzZYMulPk2XIZ2kCcU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"isn3A1qZxNtG+8+16ltDynhRPdzZYMulPk2XIZ2kCcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-isn3A1qZxNtG+8+16ltDynhRPdzZYMulPk2XIZ2kCcU="
         }
       ]
     },
@@ -1687,6 +2635,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-zRs5mmu5OiZPNaKiaPPLgKMOouSvWlc4+SUQBBiJkNk="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5Xh2ODNWUJB170KwVgnt9liGUtrfjVIPcU4bAiJAI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5Xh2ODNWUJB170KwVgnt9liGUtrfjVIPcU4bAiJAI4="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.n86y5v0x90.js",
+      "AssetFile": "D:\\MVC Project\\MVC Web\\MVC Web\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5Xh2ODNWUJB170KwVgnt9liGUtrfjVIPcU4bAiJAI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 19:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n86y5v0x90"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5Xh2ODNWUJB170KwVgnt9liGUtrfjVIPcU4bAiJAI4="
         }
       ]
     },

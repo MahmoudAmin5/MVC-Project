@@ -1,7 +1,17 @@
+wwwroot\assets\favicon.ico
+wwwroot\assets\img\avataaars.svg
+wwwroot\assets\img\portfolio\cabin.png
+wwwroot\assets\img\portfolio\cake.png
+wwwroot\assets\img\portfolio\circus.png
+wwwroot\assets\img\portfolio\game.png
+wwwroot\assets\img\portfolio\safe.png
+wwwroot\assets\img\portfolio\submarine.png
 wwwroot\css\site.css
+wwwroot\css\styles.css
 wwwroot\favicon.ico
 wwwroot\Images\2.jpg
 wwwroot\Images\m.png
+wwwroot\js\scripts.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
